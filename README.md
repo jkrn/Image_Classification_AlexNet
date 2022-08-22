@@ -5,4 +5,4 @@ The folder "notes" contains the protocols of the meetings.
 The folder "code" contains the MATLAB code.
 THe folder "code/guiImages" contains images for the GUI.
 
-![alt text](https://github.com/jkrn/Image_Recognition_AlexNet/blob/main/teaser/Teaser.png?raw=true)
+![alt text](https://github.com/jkrn/Image_Recognition_AlexNet/blob/main/poster/TASKO_poster_bert_english_final.pdf?raw=true)
