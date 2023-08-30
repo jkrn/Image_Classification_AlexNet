@@ -1,6 +1,6 @@
 # Image_Classification_AlexNet
 
-In this project a the AlexNet architecture is used for a **picture recognition challenge to compare the perfomance between human and computer**.
+In this project the AlexNet architecture is used for a **picture recognition challenge** to compare the perfomance between human and computer.
 
 ### Overview of the AlexNet architecture
 
