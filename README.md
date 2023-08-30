@@ -15,7 +15,7 @@ https://doi.org/10.1145/3065386
 
 ### Poster of picture recognition challenge
 
-The picture recognition challenge was part of the Long Night of Sciences at the Technical University of Berlin. The poster is shown below.
+The picture recognition challenge was part of the Long Night of Sciences at the Technical University of Berlin. The poster of the recognition challenge is shown below.
 
 ![alt text](https://github.com/jkrn/Image_Recognition_AlexNet/blob/main/poster/poster.png?raw=true)
 
