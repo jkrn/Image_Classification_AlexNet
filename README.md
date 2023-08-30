@@ -1,6 +1,10 @@
 # Image_Classification_AlexNet
 
-### Overview of the AlexNet architecture:
+In this project a the AlexNet architecture is used for a **picture recognition challenge to compare the perfomance between human and computer**.
+
+### Overview of the AlexNet architecture
+
+An overview of the AlexNet architecture is shown below.
 
 ![alt text](https://github.com/jkrn/Image_Recognition_AlexNet/blob/main/poster/AlexNet.PNG?raw=true)
 
@@ -9,10 +13,9 @@ Krizhevsky, Alex; Sutskever, Ilya; Hinton, Geoffrey E. (2017-05-24). ImageNet cl
 https://doi.org/10.1145/3065386
 
 
+### Poster of picture recognition challenge
 
-For the Long Night of Sciences at the Technical University of Berlin the AlexNet architecture was used for a **picture recognition challenge to compare the perfomance between human and computer**.
-
-### Poster of picture recognition challenge:
+The picture recognition challenge was part of the Long Night of Sciences at the Technical University of Berlin. The poster is shown below.
 
 ![alt text](https://github.com/jkrn/Image_Recognition_AlexNet/blob/main/poster/poster.png?raw=true)
 
